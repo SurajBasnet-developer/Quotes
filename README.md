@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The Quotes is a ReactJS project that displays a random quote from the API. This project uses React Hooks to fetch and display the data from the API.
+The user can generate a new quote by clicking on the "New Quote " button.
 
 ## Available Scripts
 
